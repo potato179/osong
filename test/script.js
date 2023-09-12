@@ -1,4 +1,3 @@
-const callOsong = require("osong");
-const osong = require("../package");
+const osong = require("osong");
 
 osong();
