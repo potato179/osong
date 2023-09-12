@@ -4,11 +4,11 @@ Osong is Osong!
 
 ## Quick Start
 There are several start options available!
-### Use Yarn
+### use Yarn
 ```
 yarn add osong
 ```
-### or Use Trash
+### or use Trash
 ```
 npm install osong
 ```
